@@ -1,0 +1,11 @@
+job_id,title,company,location,salary_lpa,skills,experience_yrs,job_type
+101,Data Scientist,TechCorp,Bangalore,14.5,"Python, Machine Learning, SQL, Pandas, Scikit-learn",3,Full-time
+102,AI Engineer,InnovateAI,Remote,18.0,"Python, Deep Learning, TensorFlow, PyTorch, LLMs",4,Full-time
+103,Data Analyst,AnalyticsHub,Mumbai,8.0,"SQL, Excel, Tableau, Power BI, Python",1,Full-time
+104,Frontend Developer,WebCraft,Hyderabad,10.5,"React, JavaScript, HTML, CSS, Tailwind",2,Full-time
+105,Backend Developer,CloudSystems,Pune,13.0,"Python, Django, FastAPI, PostgreSQL, Docker",3,Full-time
+106,Machine Learning Engineer,NextGen ML,Bangalore,20.0,"Python, Scikit-learn, MLOps, Docker, AWS",5,Full-time
+107,Full Stack Engineer,DevStudio,Remote,16.0,"React, Node.js, Python, MongoDB, AWS",4,Full-time
+108,Business Intelligence Analyst,DataVision,Delhi NCR,9.5,"SQL, Power BI, Python, Excel, Data Warehousing",2,Full-time
+109,DevOps Engineer,InfraScale,Bangalore,15.0,"Docker, Kubernetes, AWS, CI/CD, Python",3,Full-time
+110,Junior Python Developer,StartUpX,Remote,6.5,"Python, Django, Git, SQL, REST API",0,Internship
